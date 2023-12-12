@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+#imagem{
+    width: 80%;
+    max-width: 600px;
+}
+html{
+    background-color: rgb(232, 244, 221);
+}
+h1{
+    background-color: rgb(213, 242, 243);
+}
