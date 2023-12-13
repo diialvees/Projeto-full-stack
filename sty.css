@@ -233,3 +233,11 @@ input{
       font-size: 4.2rem;
     }
   }
+.image1 img{
+    max-width: 45px;
+
+  }
+  .image2 img{
+    max-width: 70px;
+
+  }
