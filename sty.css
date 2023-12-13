@@ -241,3 +241,11 @@ input{
     max-width: 70px;
 
   }
+.img1 img{
+    max-width: 30px;
+  }
+
+  .image_container img{
+    max-width: 40px;
+  }
+
