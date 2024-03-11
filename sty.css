@@ -31,18 +31,18 @@ a{
 }
 
 a:hover{
-    color:  #08ccd3;
+    color:  rgb(16, 206, 206);
     transition: 0.3s all;
 }
 
 #inscreva-se-btn{
-    border: 2px solid  #08ccd3;
+    border: 2px solid rgb(16, 206, 206);
     padding: 10px;
     border-radius: 15px;
 }
 
 #inscreva-se-btn:hover{
-    background-color:  #08ccd3;
+    background-color:  rgb(16, 206, 206);
     color: white;
 }
 
@@ -64,7 +64,7 @@ h2{
 }
 
 span{
-    color:  #08ccd3;
+    color:  rgb(16, 206, 206);
 }
 
 p{
